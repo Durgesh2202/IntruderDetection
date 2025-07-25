@@ -1,6 +1,6 @@
 # IntruderDetection
 
-# 🛡️ Intruder Detection System (Windows Logon Alert)
+# 🛡️   Host Baed Intruder Detection System
 
 This project is a lightweight **Intruder Detection System** designed using PowerShell to monitor unauthorized or failed login attempts on a Windows machine. It captures logon events and sends alerts upon suspicious activities.
 
@@ -29,5 +29,5 @@ This project is a lightweight **Intruder Detection System** designed using Power
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/intruder-detection-system.git
+   git clone https://github.com/Durgesh2202/intruder-detection-system.git
    cd intruder-detection-system
